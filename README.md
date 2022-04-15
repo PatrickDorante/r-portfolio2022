@@ -5,7 +5,8 @@
  throughout the Google Data Analytics Proffessional 
  Cerficate program on Coursera.
 
- This project will demonstrate some data processing and visualization:
+ This project will demonstrate some data processing and visualization
+ 
  ---------------------------------------------
   6 Phases of Data Analysis 
  #### Ask, Prepare, Process, Analyze, Share, Act
