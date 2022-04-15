@@ -27,9 +27,14 @@
 
 ### Cyclistic’s marketing Problem
 The Cyclistic’s marketing strategy is 
- to predict customer interactions in the last 12 months.
-As members of the marketing team, our tasks are going to 
-explore way to convey 
+to predict customer interactions in the last 12 months.
+As members of the marketing team, our tasks are going to
+explore hypothesis and predictions on 
+How annual members and casual riders use Cyclistic bikes differently.
+
+Given dataset https://divvy-tripdata.s3.amazonaws.com/index.html 
+
+
 
 
 
