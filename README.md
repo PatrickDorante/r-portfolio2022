@@ -8,7 +8,11 @@
  This project will demonstrate some data processing and visualization
  
  ---------------------------------------------
-  6 Phases of Data Analysis 
+ 
+ ![2022data_pic](https://user-images.githubusercontent.com/36643432/163570923-1f7776e0-5452-49a7-b2a1-7dde0394b335.png)
+
+ 
+ 6 Phases of Data Analysis 
  #### Ask, Prepare, Process, Analyze, Share, Act
  
  We'll learn the different techniques 
