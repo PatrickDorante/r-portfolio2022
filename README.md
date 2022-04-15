@@ -37,7 +37,27 @@ made available by Motivate International Inc. under the license below
 https://ride.divvybikes.com/data-license-agreement, 
 our business objectives aim to increasing revenues at
 converting casual riders into annual members.
- 
+
+
+## Ask Phase
+
+#### Questions to ask yourself before solving this problem
+
+- How can you help the stakeholders resolve their questions?
+- How can your insights drive business decisions?
+
+#### Key tasks 
+
+- Identify stakeholders of the project 
+- Marketing Director/Manager
+- Executive Team
+
+#### Deliverable Scenario
+Provide insights with relevant data sources 
+and cleaning, key findings,
+provide meaningful data visualization support 
+and data driven decisions.
+
 
 
 
