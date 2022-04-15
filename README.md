@@ -59,6 +59,19 @@ provide meaningful data visualization support
 and data driven decisions.
 
 
+## Preparation and Processing Phases
+These phases involve load of data and evaluation.
+The 12 months of datasets contain 
+- Total Rows: 4,358,611
+- Total Columns: 13
+A total number of 431585 missing 
+and null values will be filtered out.
+
+
+
+
+
+
 
 
 
