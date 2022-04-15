@@ -44,27 +44,27 @@ our fictional business objectives aim to increasing revenues at
 converting casual riders into annual members.
 
 
-## Ask Phase
+# Ask Phase
 
 #### Questions to ask yourself before solving this problem
 
 - How can you help the stakeholders resolve their questions?
 - How can your insights drive business decisions?
 
-#### Key tasks 
+##### Key tasks 
 
 - Identify stakeholders of the project 
 - Marketing Director/Manager
 - Executive Team
 
-#### Deliverable Scenario
+##### Deliverable Scenario
 Provide insights with relevant data sources 
 and cleaning, key findings,
 provide meaningful data visualization support 
 and data driven decisions.
 
 
-## Preparation and Processing Phases
+# Preparation and Processing Phases
 These phases involve load of data and evaluation.
 The 12 months of datasets contain 
 - Total Rows: 4,358,611
@@ -73,11 +73,16 @@ A total number of 431585 missing
 and null values will be filtered out.
 
 
-## Open Source tools used
+# Open Source tools used
 - R - analysis and visualization
 - Microsoft SQL Server & Excel
 - Tableau - create data visualization and reports
 - Jupyter Notebook - data analysis and visualizations
+
+
+# Resources
+[Stackoverflow](https://stackoverflow.com/)
+[Github](https://github.com) community
 
 
 
