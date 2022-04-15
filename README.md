@@ -81,9 +81,9 @@ and null values will be filtered out.
 
 
 # Resources
-[Stackoverflow](https://stackoverflow.com/)
+[Stackoverflow](https://stackoverflow.com/)community
 
-[Github](https://github.com) community
+[Github](https://github.com/) community
 
 
 
