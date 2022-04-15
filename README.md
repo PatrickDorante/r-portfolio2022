@@ -6,9 +6,9 @@
  Cerficate program on Coursera.
 
  This project will demonstrate some data processing and visualization:
- 6 Phases of Data Analysis 
  ---------------------------------------------
-  Ask, Prepare, Process, Analyze, Share, Act
+ --- 6 Phases of Data Analysis 
+ Ask, Prepare, Process, Analyze, Share, Act
  
  We'll learn the different techniques 
  how processing each phase and exploring data analysis. 
