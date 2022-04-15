@@ -1,6 +1,5 @@
 
 # Case Study: Bike-Share Analysis 
----------------------------------------------------------------
  The goal of this case study is to showcase the skills learned 
  throughout the Google Data Analytics Proffessional 
  Cerficate program on Coursera.
