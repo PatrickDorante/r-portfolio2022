@@ -40,7 +40,7 @@ How annual members and casual riders use Cyclistic bikes differently.
 Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
 made available by Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
-our business objectives aim to increasing revenues at
+our fictional business objectives aim to increasing revenues at
 converting casual riders into annual members.
 
 
@@ -71,6 +71,13 @@ The 12 months of datasets contain
 - Total Columns: 13
 A total number of 431585 missing 
 and null values will be filtered out.
+
+
+## Open Source tools used
+- R - analysis and visualization
+- Microsoft SQL Server & Excel
+- Tableau - create data visualization and reports
+- Jupyter Notebook - data analysis and visualizations
 
 
 
