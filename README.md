@@ -15,7 +15,7 @@
  Several software tools were used for this case study.
 
 
- # Company Mission
+ ## Company Mission
     Since launched in 2016, Cyclistic has grown across 
     Chicago with a fleet of 5,824 bicycles that are geo-tracked 
     and locked into a network of 692 stations. 
@@ -25,7 +25,7 @@
     because of the flexibility of its pricing plans: single-ride passes, 
     full-day passes = casual riders, and annual memberships.
 
-### Cyclistic’s marketing Problem
+#### Cyclistic’s marketing Problem
 The Cyclistic’s marketing strategy is 
 to predict customer interactions in the last 12 months.
 As members of the marketing team, our tasks are going to
