@@ -32,7 +32,12 @@ As members of the marketing team, our tasks are going to
 explore hypothesis and predictions on 
 How annual members and casual riders use Cyclistic bikes differently.
 
-Given dataset https://divvy-tripdata.s3.amazonaws.com/index.html 
+Given dataset https://divvy-tripdata.s3.amazonaws.com/index.html, 
+made available by Motivate International Inc. under the license below:
+https://ride.divvybikes.com/data-license-agreement, 
+Our business objectives aim to increasing revenues at
+converting casual riders into annual members.
+ 
 
 
 
