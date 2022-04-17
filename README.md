@@ -73,7 +73,7 @@ A total number of 431585 missing
 and null values will be filtered out.
 
 
-##### Data Preparation Tools 
+### Data Preparation Tools 
 - R - analysis and visualization
 - Microsoft SQL Server & Excel
 - Tableau - create data visualization and reports
