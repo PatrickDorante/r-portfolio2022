@@ -30,7 +30,7 @@
     because of the flexibility of its pricing plans: single-ride passes, 
     full-day passes = casual riders, and annual memberships.
 
-#### Cyclistic’s marketing Problem
+### Cyclistic’s marketing Problem
 The Cyclistic’s marketing strategy is 
 to predict customer interactions in the last 12 months.
 As members of the marketing team, our tasks are going to
