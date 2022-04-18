@@ -59,7 +59,9 @@ provide meaningful data visualization support
 and data driven decisions.
 
 
-# Prepare Phase - Data Extraction 
+# Prepare Phase  
+
+##### Data Extraction
 Given real [datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)
 available at Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
