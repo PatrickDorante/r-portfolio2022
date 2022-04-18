@@ -32,7 +32,7 @@
 
 ## Ask Phase
 
-### Cyclistic’s marketing Problem
+##### Cyclistic’s marketing Problem
 The Cyclistic’s marketing strategy is 
 to predict customer interactions in the last 12 months.
 As members of the marketing team, our tasks are going to
@@ -91,7 +91,12 @@ The old datasets will change into
 a new data-frame including columns
 (members classification, bike types, 
 week-days, months, ride-duration)
-for computational and descriptive analysis.0
+for computational and descriptive analysis.
+
+
+# Analyze Phase
+
+
 
 
 ### Data Preparation Tools 
