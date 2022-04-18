@@ -70,7 +70,7 @@ our fictional business, which aims at increasing revenues
 with their service's bikes share, by converting casual riders 
 into annual members.
 
-##### Data cleaning
+##### Data cleaning 
 - Total Rows: 4,358,611
 - Total Columns: 13
 - Total missing and non-values: 431585  
