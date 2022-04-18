@@ -40,7 +40,7 @@ explore hypothesis and predictions on
 How annual members and casual riders use Cyclistic bikes differently.
 
 
-#### Questions to ask yourself before solving this problem
+#### Ask questions related to your case study before solving the project
 
 - How can you help the stakeholders resolve their questions?
 - How can your insights drive business decisions?
