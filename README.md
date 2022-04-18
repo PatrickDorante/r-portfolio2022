@@ -58,7 +58,7 @@ provide meaningful data visualization support
 and data driven decisions.
 
 
-### Data Extraction
+#### Data Extraction
 Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
 made available by Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
