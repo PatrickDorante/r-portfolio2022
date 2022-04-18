@@ -68,11 +68,10 @@ our fictional business, which aims at increasing revenues
 with their service's bikes share, by converting casual riders 
 into annual members.
 
-#### Data Processing Phases
-
+##### Data cleaning
 - Total Rows: 4,358,611
 - Total Columns: 13
-A total number of 431585 missing 
+- Total missing and non-values: 431585  
 and null values will be filtered out.
 
 
