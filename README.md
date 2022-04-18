@@ -74,20 +74,16 @@ into annual members.
 # Process Phase
 
 ##### Keys tasks
-Janitor and Tidyverse were packages
-used for data cleansing in R.
-Data was load data & stored
-Sort and filter data for data time, month, week
+Janitor, Tidyverse, and gglplot2 packages for data cleansing and visualization using in R.
+Data will be loaded & stored with different variables.
+Missing and non-null values to 
+sort and filter out.
 Data missed key elements such as demographic, income, age 
 
 ##### Data cleaning 
 - Total Rows: 4,358,611
 - Total Columns: 13
 - Total missing and non-values: 431585  
-
-
-
-and null values will be filtered out.
 
 
 ### Data Preparation Tools 
