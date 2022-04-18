@@ -37,6 +37,7 @@ As members of the marketing team, our tasks are going to
 explore hypothesis and predictions on 
 How annual members and casual riders use Cyclistic bikes differently.
 
+### Data Extraction
 Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
 made available by Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
@@ -62,6 +63,8 @@ Provide insights with relevant data sources
 and cleaning, key findings,
 provide meaningful data visualization support 
 and data driven decisions.
+
+
 
 
 # Preparation and Processing Phases
