@@ -30,6 +30,8 @@
     because of the flexibility of its pricing plans: single-ride passes, 
     full-day passes = casual riders, and annual memberships.
 
+# Ask Phase
+
 ### Cyclistic’s marketing Problem
 The Cyclistic’s marketing strategy is 
 to predict customer interactions in the last 12 months.
@@ -37,15 +39,6 @@ As members of the marketing team, our tasks are going to
 explore hypothesis and predictions on 
 How annual members and casual riders use Cyclistic bikes differently.
 
-### Data Extraction
-Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
-made available by Motivate International Inc. 
-[license here](https://ride.divvybikes.com/data-license-agreement), 
-our fictional business objectives aim to increasing revenues at
-converting casual riders into annual members.
-
-
-# Ask Phase
 
 #### Questions to ask yourself before solving this problem
 
@@ -63,6 +56,14 @@ Provide insights with relevant data sources
 and cleaning, key findings,
 provide meaningful data visualization support 
 and data driven decisions.
+
+
+### Data Extraction
+Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
+made available by Motivate International Inc. 
+[license here](https://ride.divvybikes.com/data-license-agreement), 
+our fictional business objectives aim to increasing revenues at
+converting casual riders into annual members.
 
 
 
