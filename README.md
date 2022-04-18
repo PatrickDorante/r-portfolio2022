@@ -60,12 +60,12 @@ and data driven decisions.
 
 
 # Prepare Phase - Data Extraction 
-Given [datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)
+Given real [datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)
 available at Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
-we will use 12 month data from April 2020 to May 2021 for
+we will use 12 months data from April 2020 to May 2021 for
 our fictional business, which aims at increasing revenues
-with their service's bikes share by converting casual riders 
+with their service's bikes share, by converting casual riders 
 into annual members.
 
 #### Data Processing Phases
