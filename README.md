@@ -15,7 +15,7 @@
  6 Phases of Data Analysis 
  ### Ask, Prepare, Process, Analyze, Share, Act
  
- We'll learn the different techniques 
+ we'll learn the different techniques 
  how processing each phase and exploring data analysis. 
  Several software tools were used for this case study.
 
