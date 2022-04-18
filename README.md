@@ -67,8 +67,7 @@ converting casual riders into annual members.
 
 
 
-
-# Preparation and Processing Phases
+#### Preparation and Processing Phases
 These phases involve load of data and evaluation.
 The 12 months of datasets contain 
 - Total Rows: 4,358,611
