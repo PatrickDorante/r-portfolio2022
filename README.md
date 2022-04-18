@@ -89,8 +89,7 @@ and null values will be filtered out.
 
 [Github](https://github.com/) community
 
-
-                                ![bike-share-pic](https://user-images.githubusercontent.com/36643432/163747095-87496a88-f6b2-497a-b419-2483b83ef9a5.png)
+![bike-share-pic](https://user-images.githubusercontent.com/36643432/163747095-87496a88-f6b2-497a-b419-2483b83ef9a5.png)
 
 
 
