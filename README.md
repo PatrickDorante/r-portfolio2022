@@ -78,7 +78,7 @@ Janitor, Tidyverse, and gglplot2 packages for data cleansing and visualization u
 Data will be loaded & stored with different variables.
 Missing and non-null values to 
 sort and filter out.
-Data missed key elements such as demographic, income, age 
+Data missed key such as demographic, income, age not included.
 
 ##### Data cleaning 
 - Total Rows: 4,358,611
