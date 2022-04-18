@@ -20,7 +20,7 @@
  Several software tools were used for this case study.
 
 
- ## Company Mission
+ ### Company Mission
     Since launched in 2016, Cyclistic has grown across 
     Chicago with a fleet of 5,824 bicycles that are geo-tracked 
     and locked into a network of 692 stations. 
@@ -30,7 +30,7 @@
     because of the flexibility of its pricing plans: single-ride passes, 
     full-day passes = casual riders, and annual memberships.
 
-# Ask Phase
+## Ask Phase
 
 ### Cyclistic’s marketing Problem
 The Cyclistic’s marketing strategy is 
@@ -59,7 +59,7 @@ provide meaningful data visualization support
 and data driven decisions.
 
 
-# Prepare Phase  
+## Prepare Phase  
 
 ##### Data Extraction
 Given real [datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)
@@ -71,7 +71,7 @@ with their service's bikes share, by converting casual riders
 into annual members.
 
 
-# Process Phase
+## Process Phase
 
 ##### Keys tasks
 Janitor, Tidyverse, and gglplot2 packages for data cleansing and visualization using in R.
@@ -86,6 +86,13 @@ We'll inspect data structures and data types for errors:
 - Total Columns: 13
 - Total missing - NA or non-values: 431585  
 
+##### Data Transformation - Manipulation
+The old datasets will change into 
+a new data-frame including columns
+(members classification, bike types, 
+week-days, months, ride-duration)
+for computational and descriptive analysis.0
+
 
 ### Data Preparation Tools 
 - R - analysis and visualization
@@ -94,7 +101,7 @@ We'll inspect data structures and data types for errors:
 - Jupyter Notebook - data analysis and visualizations
 
 
-# Resources
+## Resources
 [Stackoverflow](https://stackoverflow.com/) community
 
 [Github](https://github.com/) community
