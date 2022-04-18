@@ -59,18 +59,17 @@ provide meaningful data visualization support
 and data driven decisions.
 
 
-# Data Extraction - Prepare Phase
-Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
-made available by Motivate International Inc. 
+# Prepare Phase - Data Extraction 
+Given [datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)
+available at Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
-our fictional business objectives aim to increasing revenues at
-converting casual riders into annual members.
-
-
+We will use 12 month data from April 2020 to May 2021 for
+our fictional business, which aims at increasing revenues
+with their service's bikes share by converting casual riders 
+into annual members.
 
 #### Data Processing Phases
-These phases involve load of data and evaluation.
-The 12 months of datasets contain 
+
 - Total Rows: 4,358,611
 - Total Columns: 13
 A total number of 431585 missing 
