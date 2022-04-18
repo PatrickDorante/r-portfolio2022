@@ -81,9 +81,10 @@ sort and filter out.
 Data missed key such as demographic, income, age not included.
 
 ##### Data cleaning 
+We'll inspect data structures and data types for errors:
 - Total Rows: 4,358,611
 - Total Columns: 13
-- Total missing and non-values: 431585  
+- Total missing - NA or non-values: 431585  
 
 
 ### Data Preparation Tools 
