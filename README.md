@@ -36,8 +36,9 @@
 The Cyclistic’s marketing strategy is 
 to predict customer interactions in the last 12 months.
 As members of the marketing team, our tasks are going to
-explore hypothesis and predictions on 
-How annual members and casual riders use Cyclistic bikes differently.
+explore hypothesis and predictions by comparing 
+how Cyclistic's bikes usage differ 
+between annual and casual riders.
 
 
 #### Ask questions related to your case study before solving the project
@@ -58,7 +59,7 @@ provide meaningful data visualization support
 and data driven decisions.
 
 
-#### Data Extraction
+# Data Extraction - Prepare Phase
 Given [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html), 
 made available by Motivate International Inc. 
 [license here](https://ride.divvybikes.com/data-license-agreement), 
@@ -67,7 +68,7 @@ converting casual riders into annual members.
 
 
 
-#### Preparation and Processing Phases
+#### Data Processing Phases
 These phases involve load of data and evaluation.
 The 12 months of datasets contain 
 - Total Rows: 4,358,611
