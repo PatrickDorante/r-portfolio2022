@@ -70,10 +70,23 @@ our fictional business, which aims at increasing revenues
 with their service's bikes share, by converting casual riders 
 into annual members.
 
+
+# Process Phase
+
+##### Keys tasks
+Janitor and Tidyverse were packages
+used for data cleansing in R.
+Data was load data & stored
+Sort and filter data for data time, month, week
+Data missed key elements such as demographic, income, age 
+
 ##### Data cleaning 
 - Total Rows: 4,358,611
 - Total Columns: 13
 - Total missing and non-values: 431585  
+
+
+
 and null values will be filtered out.
 
 
