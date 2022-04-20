@@ -100,6 +100,13 @@ This part focus strictly on descriptive analysis.
 Comparing the charts, casual users ride the share-bikes 
 more than annual member users during the weekend.
 
+###### Data Visualization
+![avg_trips](https://user-images.githubusercontent.com/36643432/164219840-7efaf86d-95ef-4834-ad36-c3207b916bf8.png)
+![datetime](https://user-images.githubusercontent.com/36643432/164219842-c2170bbd-6c7d-4d64-8072-0955e90a806f.png)
+![Days_of_week](https://user-images.githubusercontent.com/36643432/164219855-c38d0f68-d689-49bf-a0bf-2ea69044fa2b.png)
+![percent_usrs](https://user-images.githubusercontent.com/36643432/164219857-f84c959f-1435-41c2-8cf4-24268c5efc89.png)
+![time_month](https://user-images.githubusercontent.com/36643432/164219860-ee1347be-4a60-468b-bc7b-462f1cedc3b8.png)
+
 
 ##### Data Preparation Tools 
 - R - analysis and visualization
