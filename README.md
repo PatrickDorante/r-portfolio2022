@@ -98,10 +98,10 @@ for computational and descriptive analysis.
 
 This part focus strictly on descriptive analysis. 
 Comparing the charts, casual users ride the share-bikes 
-more than annual member users during the weekend
+more than annual member users during the weekend.
 
 
-### Data Preparation Tools 
+##### Data Preparation Tools 
 - R - analysis and visualization
 - Microsoft SQL Server & Excel
 - Tableau - create data visualization and reports
