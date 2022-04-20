@@ -97,6 +97,8 @@ for computational and descriptive analysis.
 # Analyze Phase
 
 This part focus strictly on descriptive analysis. 
+Comparing the charts, casual users ride the share-bikes 
+more than annual member users during the weekend
 
 
 ### Data Preparation Tools 
