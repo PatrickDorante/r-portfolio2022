@@ -105,7 +105,8 @@ more than annual member users during the weekend.
 ![datetime](https://user-images.githubusercontent.com/36643432/164219842-c2170bbd-6c7d-4d64-8072-0955e90a806f.png)
 ![Days_of_week](https://user-images.githubusercontent.com/36643432/164219855-c38d0f68-d689-49bf-a0bf-2ea69044fa2b.png)
 ![percent_usrs](https://user-images.githubusercontent.com/36643432/164219857-f84c959f-1435-41c2-8cf4-24268c5efc89.png)
-![time_month](https://user-images.githubusercontent.com/36643432/164219860-ee1347be-4a60-468b-bc7b-462f1cedc3b8.png)
+![average_time_month](https://user-images.githubusercontent.com/36643432/164220516-0b891d94-c912-4c81-8229-283840635aef.png)
+
 
 
 ##### Data Preparation Tools 
